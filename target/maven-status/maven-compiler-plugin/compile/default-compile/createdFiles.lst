@@ -1,0 +1,12 @@
+com\eglobal\reporte\b\commons\providers\ProveedorBinesBUB.class
+com\eglobal\reporte\b\commons\beans\EmisoresConsultaBean.class
+com\eglobal\reporte\b\commons\beans\insumos\impl\LeerEmisoresConsultasATMS.class
+com\eglobal\reporte\b\commons\providers\PathsProjectProvider.class
+com\eglobal\reporte\b\commons\beans\insumos\LeerEmisoresConsulta.class
+com\eglobal\reporte\b\commons\providers\ciberark\CredentialsCiberArk.class
+com\eglobal\reporte\b\commons\providers\ciberark\DataBaseCiberArk.class
+com\eglobal\reporte\b\commons\providers\ProveedorProperties.class
+com\eglobal\reporte\b\commons\beans\exceptions\GeneraResumenReporteBException.class
+com\eglobal\reporte\b\commons\providers\ciberark\Credentials.class
+com\eglobal\reporte\b\commons\beans\insumos\impl\LeerEmisoresConsultasPOS.class
+com\eglobal\reporte\b\commons\providers\ProveedorInstitucionesBUB.class
